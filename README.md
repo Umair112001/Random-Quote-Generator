@@ -27,5 +27,5 @@ The application consists of the following files:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/random-quote-generator.git
+   git clone https://github.com/Umair112001/random-quote-generator.git
     
